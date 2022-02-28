@@ -1,37 +1,218 @@
 {
   "products": [
-    {
-      "createdAt": "2022-01-14T11:14:02.843Z",
-      "name": "Sản phẩm A",
-      "img": "http://placeimg.com/640/480/technics",
-      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "id": "14",
-      "price": "100"
-    },
-    {
-      "createdAt": "2022-01-15T00:11:58.958Z",
-      "name": "Sản phẩm B",
-      "img": "http://placeimg.com/640/480/technics",
-      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "id": "15",
-      "price": "200"
-    },
-    {
-      "createdAt": "2022-01-15T04:39:49.775Z",
-      "name": "Sản phẩm C",
-      "img": "http://placeimg.com/640/480/people",
-      "desc": "day la mo ta",
-      "id": "16",
-      "price": "300"
-    },
-    {
-      "createdAt": "2022-01-10T20:33:27.477Z",
-      "name": "Sản phẩm D",
-      "img": "http://placeimg.com/640/480/sports",
-      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "id": "19",
-      "price": "400"
-    }
-  ],
-  "categories": []
+ {
+  "createdAt": "2022-02-28T08:03:10.201Z",
+  "name": "Intelligent Plastic Car",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "id": "1",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-27T14:32:15.275Z",
+  "name": "Awesome Concrete Soap",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "id": "2",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-27T14:46:41.269Z",
+  "name": "Unbranded Rubber Bike",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "id": "3",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-28T00:22:39.041Z",
+  "name": "Licensed Cotton Mouse",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "id": "4",
+  "categoryId": "4"
+ },
+ {
+  "createdAt": "2022-02-28T05:54:05.329Z",
+  "name": "Intelligent Metal Bacon",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "id": "5",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-28T07:44:39.231Z",
+  "name": "Intelligent Frozen Sausages",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "id": "6",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-28T12:45:42.217Z",
+  "name": "Tasty Concrete Pizza",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "id": "7",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-28T12:54:42.968Z",
+  "name": "Incredible Metal Sausages",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "id": "8",
+  "categoryId": "4"
+ },
+ {
+  "createdAt": "2022-02-28T11:36:50.869Z",
+  "name": "Ergonomic Frozen Hat",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "id": "9",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-27T22:02:15.357Z",
+  "name": "Unbranded Concrete Bike",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "id": "10",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-27T15:40:05.226Z",
+  "name": "Refined Soft Pants",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+  "id": "11",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-27T18:00:11.685Z",
+  "name": "Tasty Fresh Fish",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "id": "12",
+  "categoryId": "4"
+ },
+ {
+  "createdAt": "2022-02-27T19:27:26.470Z",
+  "name": "Small Frozen Bacon",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "id": "13",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-28T00:54:50.731Z",
+  "name": "Handmade Soft Tuna",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "id": "14",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-28T02:33:38.426Z",
+  "name": "Licensed Metal Chicken",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "id": "15",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-27T22:16:34.361Z",
+  "name": "Handcrafted Frozen Bacon",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "id": "16",
+  "categoryId": "4"
+ },
+ {
+  "createdAt": "2022-02-28T08:59:21.919Z",
+  "name": "Handcrafted Rubber Shoes",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "id": "17",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-28T09:57:30.730Z",
+  "name": "Sleek Rubber Chips",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "id": "18",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-27T20:07:47.779Z",
+  "name": "Tasty Frozen Soap",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "id": "19",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-27T16:16:29.602Z",
+  "name": "Sleek Granite Towels",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "id": "20",
+  "categoryId": "4"
+ },
+ {
+  "createdAt": "2022-02-28T05:36:29.108Z",
+  "name": "Intelligent Steel Shirt",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "id": "21",
+  "categoryId": "1"
+ },
+ {
+  "createdAt": "2022-02-28T06:20:08.808Z",
+  "name": "Tasty Fresh Bike",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "id": "22",
+  "categoryId": "2"
+ },
+ {
+  "createdAt": "2022-02-28T11:00:10.588Z",
+  "name": "Intelligent Frozen Chips",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "id": "23",
+  "categoryId": "3"
+ },
+ {
+  "createdAt": "2022-02-27T17:28:20.411Z",
+  "name": "Sleek Rubber Bacon",
+  "img": "Invalid faker method - image.lorempicsum",
+  "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "id": "24",
+  "categoryId": "4"
+ }
+],
+  "categories": [
+ {
+  "createdAt": "2022-02-28T08:00:17.994Z",
+  "name": "Danh muc 1",
+  "id": "1"
+ },
+ {
+  "createdAt": "2022-02-28T09:24:58.509Z",
+  "name": "Danh muc 2",
+  "id": "2"
+ },
+ {
+  "createdAt": "2022-02-28T11:17:33.898Z",
+  "name": "Danh muc 3",
+  "id": "3"
+ },
+ {
+  "createdAt": "2022-02-28T01:16:26.099Z",
+  "name": "Danh muc 4",
+  "id": "4"
+ }
+]
 }
