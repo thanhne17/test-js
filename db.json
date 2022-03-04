@@ -1,242 +1,273 @@
 {
   "products": [
- {
-  "createdAt": "2022-03-01T13:07:32.034Z",
-  "name": "Awesome Wooden Chicken",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-  "price": "924.00",
-  "id": "1",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-02T01:00:24.874Z",
-  "name": "Handcrafted Metal Chair",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-  "price": "392.00",
-  "id": "2",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-02T00:51:19.890Z",
-  "name": "Practical Concrete Bacon",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-  "price": "881.00",
-  "id": "3",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-02T09:18:23.986Z",
-  "name": "Ergonomic Rubber Chair",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-  "price": "404.00",
-  "id": "4",
-  "categoryId": "4"
- },
- {
-  "createdAt": "2022-03-01T16:36:41.176Z",
-  "name": "Licensed Frozen Salad",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-  "price": "268.00",
-  "id": "5",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-02T03:18:53.907Z",
-  "name": "Ergonomic Concrete Computer",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-  "price": "201.00",
-  "id": "6",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-01T22:07:24.162Z",
-  "name": "Handmade Steel Gloves",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-  "price": "896.00",
-  "id": "7",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-01T20:36:31.495Z",
-  "name": "Licensed Steel Bacon",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-  "price": "246.00",
-  "id": "8",
-  "categoryId": "4"
- },
- {
-  "createdAt": "2022-03-02T04:06:28.930Z",
-  "name": "Incredible Concrete Towels",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-  "price": "17.00",
-  "id": "9",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-02T00:08:27.411Z",
-  "name": "Handcrafted Wooden Gloves",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-  "price": "406.00",
-  "id": "10",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-01T11:53:31.165Z",
-  "name": "Rustic Rubber Gloves",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-  "price": "537.00",
-  "id": "11",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-01T15:57:53.793Z",
-  "name": "Rustic Concrete Chair",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-  "price": "57.00",
-  "id": "12",
-  "categoryId": "4"
- },
- {
-  "createdAt": "2022-03-01T22:01:41.410Z",
-  "name": "Tasty Fresh Pants",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-  "price": "516.00",
-  "id": "13",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-02T04:23:38.916Z",
-  "name": "Licensed Metal Tuna",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-  "price": "227.00",
-  "id": "14",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-02T07:29:37.272Z",
-  "name": "Fantastic Soft Mouse",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The Football Is Good For Training And Recreational Purposes",
-  "price": "515.00",
-  "id": "15",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-01T12:27:43.763Z",
-  "name": "Incredible Wooden Car",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-  "price": "379.00",
-  "id": "16",
-  "categoryId": "4"
- },
- {
-  "createdAt": "2022-03-01T20:12:34.913Z",
-  "name": "Sleek Cotton Chips",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-  "price": "28.00",
-  "id": "17",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-01T13:31:20.943Z",
-  "name": "Tasty Fresh Hat",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-  "price": "774.00",
-  "id": "18",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-01T10:53:31.447Z",
-  "name": "Unbranded Granite Pizza",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-  "price": "627.00",
-  "id": "19",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-01T22:30:31.750Z",
-  "name": "Ergonomic Rubber Towels",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-  "price": "722.00",
-  "id": "20",
-  "categoryId": "4"
- },
- {
-  "createdAt": "2022-03-01T10:46:51.555Z",
-  "name": "Unbranded Concrete Ball",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-  "price": "80.00",
-  "id": "21",
-  "categoryId": "1"
- },
- {
-  "createdAt": "2022-03-01T14:15:13.519Z",
-  "name": "Handcrafted Frozen Keyboard",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-  "price": "849.00",
-  "id": "22",
-  "categoryId": "2"
- },
- {
-  "createdAt": "2022-03-01T10:01:34.761Z",
-  "name": "Awesome Granite Computer",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-  "price": "308.00",
-  "id": "23",
-  "categoryId": "3"
- },
- {
-  "createdAt": "2022-03-01T15:10:45.942Z",
-  "name": "Awesome Metal Gloves",
-  "img": "http://placeimg.com/640/480/sports",
-  "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-  "price": "31.00",
-  "id": "24",
-  "categoryId": "4"
- }
-],
+    {
+      "createdAt": "2022-03-01T13:07:32.034Z",
+      "name": "thanhne",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "924.00",
+      "categoryId": 4,
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-03-02T01:00:24.874Z",
+      "name": "idaddda",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "392.00",
+      "id": "2",
+      "categoryId": 1
+    },
+    {
+      "createdAt": "2022-03-02T00:51:19.890Z",
+      "name": "Practical Concrete Bacon",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "881.00",
+      "id": "3",
+      "categoryId": "3"
+    },
+    {
+      "createdAt": "2022-03-02T09:18:23.986Z",
+      "name": "Ergonomic Rubber Chair",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "404.00",
+      "id": "4",
+      "categoryId": "4"
+    },
+    {
+      "createdAt": "2022-03-01T16:36:41.176Z",
+      "name": "Licensed Frozen Salad",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "268.00",
+      "id": "5",
+      "categoryId": "1"
+    },
+    {
+      "createdAt": "2022-03-02T03:18:53.907Z",
+      "name": "Ergonomic Concrete Computer",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "201.00",
+      "id": "6",
+      "categoryId": "2"
+    },
+    {
+      "createdAt": "2022-03-01T22:07:24.162Z",
+      "name": "Handmade Steel Gloves",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "896.00",
+      "id": "7",
+      "categoryId": "3"
+    },
+    {
+      "createdAt": "2022-03-01T20:36:31.495Z",
+      "name": "Licensed Steel Bacon",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "246.00",
+      "id": "8",
+      "categoryId": "4"
+    },
+    {
+      "createdAt": "2022-03-02T04:06:28.930Z",
+      "name": "Incredible Concrete Towels",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "17.00",
+      "id": "9",
+      "categoryId": "1"
+    },
+    {
+      "createdAt": "2022-03-02T00:08:27.411Z",
+      "name": "Handcrafted Wooden Gloves",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "406.00",
+      "id": "10",
+      "categoryId": "2"
+    },
+    {
+      "createdAt": "2022-03-01T11:53:31.165Z",
+      "name": "Rustic Rubber Gloves",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "537.00",
+      "id": "11",
+      "categoryId": "3"
+    },
+    {
+      "createdAt": "2022-03-01T15:57:53.793Z",
+      "name": "Rustic Concrete Chair",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "57.00",
+      "id": "12",
+      "categoryId": "4"
+    },
+    {
+      "createdAt": "2022-03-01T22:01:41.410Z",
+      "name": "Tasty Fresh Pants",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "516.00",
+      "id": "13",
+      "categoryId": "1"
+    },
+    {
+      "createdAt": "2022-03-02T04:23:38.916Z",
+      "name": "Licensed Metal Tuna",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "227.00",
+      "id": "14",
+      "categoryId": "2"
+    },
+    {
+      "createdAt": "2022-03-02T07:29:37.272Z",
+      "name": "Fantastic Soft Mouse",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The Football Is Good For Training And Recreational Purposes",
+      "price": "515.00",
+      "id": "15",
+      "categoryId": "3"
+    },
+    {
+      "createdAt": "2022-03-01T12:27:43.763Z",
+      "name": "Incredible Wooden Car",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "379.00",
+      "id": "16",
+      "categoryId": "4"
+    },
+    {
+      "createdAt": "2022-03-01T20:12:34.913Z",
+      "name": "Sleek Cotton Chips",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "28.00",
+      "id": "17",
+      "categoryId": "1"
+    },
+    {
+      "createdAt": "2022-03-01T13:31:20.943Z",
+      "name": "Tasty Fresh Hat",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "774.00",
+      "id": "18",
+      "categoryId": "2"
+    },
+    {
+      "createdAt": "2022-03-01T10:53:31.447Z",
+      "name": "Unbranded Granite Pizza",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "627.00",
+      "id": "19",
+      "categoryId": "3"
+    },
+    {
+      "createdAt": "2022-03-01T22:30:31.750Z",
+      "name": "Ergonomic Rubber Towels",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "722.00",
+      "id": "20",
+      "categoryId": "4"
+    },
+    {
+      "createdAt": "2022-03-01T10:46:51.555Z",
+      "name": "Unbranded Concrete Ball",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "80.00",
+      "id": "21",
+      "categoryId": "1"
+    },
+    {
+      "createdAt": "2022-03-01T14:15:13.519Z",
+      "name": "Handcrafted Frozen Keyboard",
+      "img": "http://placeimg.com/640/480/sports",
+      "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "849.00",
+      "id": "22",
+      "categoryId": "2"
+    },
+    {
+      "createdAt": "",
+      "name": "",
+      "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411305/ksbzvtuznwdqn5kjqbum.jpg",
+      "desc": "",
+      "price": "",
+      "id": "IztiolQ",
+      "categoryId": 1
+    },
+    {
+      "createdAt": "",
+      "name": "",
+      "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411401/tdhoreu45fa9jcnowlhz.png",
+      "desc": "",
+      "price": "",
+      "id": "yybZRVX",
+      "categoryId": 1
+    },
+    {
+      "createdAt": "today",
+      "name": "sữa tắm enchanteur vàng 550g",
+      "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411642/yw6vopqf4aqwzj1u4liq.jpg",
+      "desc": "adkjtrghbfdv",
+      "price": "150",
+      "id": "GZUgSsv",
+      "categoryId": 1
+    }
+  ],
   "categories": [
- {
-  "createdAt": "2022-02-28T08:00:17.994Z",
-  "name": "Danh muc 1",
-  "id": "1"
- },
- {
-  "createdAt": "2022-02-28T09:24:58.509Z",
-  "name": "Danh muc 2",
-  "id": "2"
- },
- {
-  "createdAt": "2022-02-28T11:17:33.898Z",
-  "name": "Danh muc 3",
-  "id": "3"
- },
- {
-  "createdAt": "2022-02-28T01:16:26.099Z",
-  "name": "Danh muc 4",
-  "id": "4"
- }
-]
+    {
+      "createdAt": "2022-02-28T08:00:17.994Z",
+      "name": "Danh muc 1",
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-02-28T09:24:58.509Z",
+      "name": "Danh muc 2",
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-02-28T11:17:33.898Z",
+      "name": "Danh muc 3",
+      "id": "3"
+    },
+    {
+      "createdAt": "2022-02-28T01:16:26.099Z",
+      "name": "Danh muc 4",
+      "id": "4"
+    }
+  ],
+  "users": [
+    {
+      "email": "manhquan@gmail.com",
+      "password": "$2a$10$tvttQVX1UuIKQzmcVe4QR..563RUHyWuQKtmof5gCSdRO.rv.1zGy",
+      "id": 1
+    },
+    {
+      "email": "thanne@gmail.com",
+      "password": "$2a$10$TBU1mBnmyRoSv8RPOXglbOjtehKoPl4QhcqqTG9AtqATLKKhaGJri",
+      "id": 2
+    },
+    {
+      "email": "thanhabc@gmail.com",
+      "password": "$2a$10$TLkxSt65KAPS1L/wDZ3QreqUBi2u1o2PG35s6jR7.cU9.dGdi8HbG",
+      "id": 3
+    },
+    {
+      "email": "thanh@gmail.com",
+      "password": "$2a$10$azMwrcg3uKlbRG4nZ2lySOqLjVHovfZysaBfX/qhlEiozg/ckF.ve",
+      "id": 4
+    }
+  ]
 }
