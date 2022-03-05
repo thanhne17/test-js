@@ -26,7 +26,7 @@ const Edit = {
         
                         <div class="col-span-6 sm:col-span-4">
                         <label for="price" class="block text-sm font-medium text-gray-700">Price</label>
-                        <input value="${data.price}" type="number" name="price" id="price" autocomplete="email" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                        <input value="${data.price}" type="number" name="price" id="price" autocomplete="" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                         </div>
         
                         <div class="col-span-6">
@@ -107,7 +107,7 @@ const Edit = {
                     id: document.querySelector("#id").value,
                     categoryId: 1
                 })
-                // document.location.href = "/"
+                document.location.href = "/"
                 }
                 EditHandler()
 

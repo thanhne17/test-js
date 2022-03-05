@@ -5,7 +5,7 @@
       "name": "thanhne",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "924.00",
+      "price": "924",
       "categoryId": 4,
       "id": "1"
     },
@@ -14,7 +14,7 @@
       "name": "idaddda",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "392.00",
+      "price": "392",
       "id": "2",
       "categoryId": 1
     },
@@ -23,7 +23,7 @@
       "name": "Practical Concrete Bacon",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "881.00",
+      "price": "881",
       "id": "3",
       "categoryId": "3"
     },
@@ -32,7 +32,7 @@
       "name": "Ergonomic Rubber Chair",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "price": "404.00",
+      "price": "404",
       "id": "4",
       "categoryId": "4"
     },
@@ -41,7 +41,7 @@
       "name": "Licensed Frozen Salad",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "268.00",
+      "price": "268",
       "id": "5",
       "categoryId": "1"
     },
@@ -50,7 +50,7 @@
       "name": "Ergonomic Concrete Computer",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": "201.00",
+      "price": "201",
       "id": "6",
       "categoryId": "2"
     },
@@ -59,7 +59,7 @@
       "name": "Handmade Steel Gloves",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "896.00",
+      "price": "896",
       "id": "7",
       "categoryId": "3"
     },
@@ -68,7 +68,7 @@
       "name": "Licensed Steel Bacon",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "246.00",
+      "price": "246",
       "id": "8",
       "categoryId": "4"
     },
@@ -77,16 +77,16 @@
       "name": "Incredible Concrete Towels",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "17.00",
+      "price": "1710",
       "id": "9",
-      "categoryId": "1"
+      "categoryId": 1
     },
     {
       "createdAt": "2022-03-02T00:08:27.411Z",
       "name": "Handcrafted Wooden Gloves",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": "406.00",
+      "price": "406",
       "id": "10",
       "categoryId": "2"
     },
@@ -95,7 +95,7 @@
       "name": "Rustic Rubber Gloves",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "537.00",
+      "price": "537",
       "id": "11",
       "categoryId": "3"
     },
@@ -104,7 +104,7 @@
       "name": "Rustic Concrete Chair",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "price": "57.00",
+      "price": "57",
       "id": "12",
       "categoryId": "4"
     },
@@ -113,7 +113,7 @@
       "name": "Tasty Fresh Pants",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "516.00",
+      "price": "516",
       "id": "13",
       "categoryId": "1"
     },
@@ -122,7 +122,7 @@
       "name": "Licensed Metal Tuna",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": "227.00",
+      "price": "227",
       "id": "14",
       "categoryId": "2"
     },
@@ -131,7 +131,7 @@
       "name": "Fantastic Soft Mouse",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The Football Is Good For Training And Recreational Purposes",
-      "price": "515.00",
+      "price": "515",
       "id": "15",
       "categoryId": "3"
     },
@@ -140,7 +140,7 @@
       "name": "Incredible Wooden Car",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": "379.00",
+      "price": "379",
       "id": "16",
       "categoryId": "4"
     },
@@ -149,7 +149,7 @@
       "name": "Sleek Cotton Chips",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "28.00",
+      "price": "28",
       "id": "17",
       "categoryId": "1"
     },
@@ -158,7 +158,7 @@
       "name": "Tasty Fresh Hat",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "774.00",
+      "price": "774",
       "id": "18",
       "categoryId": "2"
     },
@@ -167,7 +167,7 @@
       "name": "Unbranded Granite Pizza",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "627.00",
+      "price": "627",
       "id": "19",
       "categoryId": "3"
     },
@@ -176,7 +176,7 @@
       "name": "Ergonomic Rubber Towels",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "722.00",
+      "price": "722",
       "id": "20",
       "categoryId": "4"
     },
@@ -185,7 +185,7 @@
       "name": "Unbranded Concrete Ball",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "80.00",
+      "price": "80",
       "id": "21",
       "categoryId": "1"
     },
@@ -194,35 +194,17 @@
       "name": "Handcrafted Frozen Keyboard",
       "img": "http://placeimg.com/640/480/sports",
       "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "price": "849.00",
+      "price": "849",
       "id": "22",
       "categoryId": "2"
     },
     {
       "createdAt": "",
-      "name": "",
-      "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411305/ksbzvtuznwdqn5kjqbum.jpg",
-      "desc": "",
-      "price": "",
-      "id": "IztiolQ",
-      "categoryId": 1
-    },
-    {
-      "createdAt": "",
-      "name": "",
+      "name": "sữa tắm enchanteur vàng 550g",
       "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411401/tdhoreu45fa9jcnowlhz.png",
       "desc": "",
-      "price": "",
-      "id": "yybZRVX",
-      "categoryId": 1
-    },
-    {
-      "createdAt": "today",
-      "name": "sữa tắm enchanteur vàng 550g",
-      "img": "http://res.cloudinary.com/djsbi0bma/image/upload/v1646411642/yw6vopqf4aqwzj1u4liq.jpg",
-      "desc": "adkjtrghbfdv",
       "price": "150",
-      "id": "GZUgSsv",
+      "id": "yybZRVX",
       "categoryId": 1
     }
   ],
